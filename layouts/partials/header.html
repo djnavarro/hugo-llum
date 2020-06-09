@@ -8,11 +8,11 @@
 
   <style>
   	:root {
-  		--pagecolour: {{ .Site.Params.Pagecolor }};
-  		--maintext: {{ .Site.Params.Textcolor }};
-  		--faded: {{ .Site.Params.Fadecolor }};
-  		--highlight: {{ .Site.Params.Accent1 }};
-  		--lowlight: {{ .Site.Params.Accent2 }};
+  		--pagecolour: {{ $.Param.Pagecolor }};
+  		--maintext: {{ $.Param.Textcolor }};
+  		--faded: {{ $.Param.Fadecolor }};
+  		--highlight: {{ $.Param.Accent1 }};
+  		--lowlight: {{ $.Param.Accent2 }};
 	}
   </style>
 
