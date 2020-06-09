@@ -4,7 +4,11 @@ author: "Danielle Navarro"
 date: "2019-04-15"
 slug: kunoichi
 tags: ["slumdown", "kunoichi"]
-colourscheme: "css/palette_kunoichi.css"
+pagecolor: "#eeeeee"
+textcolor: "#111111"
+fadecolor: "#999999"
+accent1: "#0000dd"
+accent2: "#8a2be2"
 summary: "A simple project page illustrating how user-defined themes in *slumdown* can be used as the basis of individual pages and ggplot2 figures. It doesn't do very much."
 header:
   image: 'header/theme_kunoichi.png'
