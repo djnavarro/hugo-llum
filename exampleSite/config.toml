@@ -106,8 +106,6 @@ footnotereturnlinkcontents = "↩"
     twitterImage = "https://djnavarro.github.io/hugo-;lum/header/slumdown.png"
     description = "A website built using llumdown."
     footer = "Your very own footer text"
-
-[colors]
     pagecolor = "#333333"    # background colour
     textcolor = "#dddddd"    # main text colour
     fadecolor = "#888888"    # faded text colour
