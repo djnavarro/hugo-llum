@@ -1,0 +1,12 @@
+name = "llum"
+license = "MIT"
+licenselink = "https://github.com/djnavarro/hugo-llum/blob/master/LICENSE.md"
+description = "LLUM: Lovable, lightweight, usable and minimal"
+homepage = "https://github.com/djnavarro/hugo-llum/"
+tags = ["minimal", "blog", "personal"]
+features = ["blog"]
+min_version = "0.0.1"
+
+[author]
+  name = "Danielle Navarro"
+  homepage = "https://djnavarro.net"
